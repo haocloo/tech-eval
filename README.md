@@ -1,3 +1,3 @@
 # Hello There
 
-Make any changes on html, then create a pull request. Easy task.
+Fork this repo, make some changes in html, then create a pull request. Easy task.
